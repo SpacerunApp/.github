@@ -18,7 +18,7 @@
 ## Introduction
 
 
-__SPACERUN__ is an advanced, open-source cloud gaming platform engineered to deliver ultra-low-latency, high-quality gaming experiences across a wide range of devices. It’s designed with a clear separation between host and client technologies to optimize each side for the best performance, quality, and compatibility.
+__SPACERUN__ is an advanced, cloud gaming platform engineered to deliver ultra-low-latency, high-quality gaming experiences across a wide range of devices. It’s designed with a clear separation between host and client technologies to optimize each side for the best performance, quality, and compatibility.
 
 Built from the ground up for flexibility and scalability, SPACERUN is ideal for developers, enthusiasts, and innovators who want a cloud gaming solution that is open to modification and can be self-hosted. By leveraging cutting-edge tools and libraries, SPACERUN provides the infrastructure to stream games in real-time with minimal latency, making it suitable for both personal use and large-scale deployments.
 
