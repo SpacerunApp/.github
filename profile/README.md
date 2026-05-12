@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/ff167f4c-39b6-41d0-b84d-9fc9727685e5" alt="SPACERUN" />
+  <img width="128" height="128" src="https://github.com/user-attachments/assets/ff167f4c-39b6-41d0-b84d-9fc9727685e5" alt="SPACERUN" />
 </div>
 
 &nbsp;
@@ -29,6 +29,5 @@ The platform is built around a **distributed GPU infrastructure model**, allowin
 
 SPACERUN is open to new contributors and collaborators interested in cloud gaming, distributed systems, GPU infrastructure, real-time streaming, backend engineering, frontend development, and product development.
 
-For collaboration inquiries:
-
-**collaboration@spacerun.app**
+For partnership, contributor, and collaboration inquiries:
+**partnerships@spacerun.app**
